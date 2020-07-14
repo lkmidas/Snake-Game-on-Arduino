@@ -67,3 +67,7 @@ List of library used:
 About the code, its design logic is a state machine based design so as to improve the system's stability.
 ## Demonstration
 The video where we demonstrate the product in details can be accessed at this link.
+## Contributors
+- Khac Minh Dang Le: [https://github.com/LKMDang](https://github.com/LKMDang)
+- Chan Duong Van: [https://github.com/shinyo-dc](https://github.com/shinyo-dc)
+- Phuc Khanh Huynh: 
